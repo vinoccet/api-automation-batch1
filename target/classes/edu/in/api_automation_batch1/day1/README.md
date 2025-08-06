@@ -1,10 +1,5 @@
-# 🌱 Java Basics for API Automation Testing (Beginner-Friendly)
+# 🌱 Java Basics for API Automation Testing
 
-> **Goal for this stage:**  
-> Learn Java fundamentals while keeping API testing in mind.  
-> No real HTTP calls yet — just understand how Java stores, processes, and structures data that we’ll use in API automation.
-
----
 
 ## 🗂 Topics Covered in This Module
 
